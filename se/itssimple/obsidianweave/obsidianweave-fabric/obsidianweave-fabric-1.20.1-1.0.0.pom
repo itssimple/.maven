@@ -10,30 +10,4 @@
   <groupId>se.itssimple.obsidianweave</groupId>
   <artifactId>obsidianweave-fabric</artifactId>
   <version>1.20.1-1.0.0</version>
-  <dependencies>
-    <dependency>
-      <groupId>com.google.code.findbugs</groupId>
-      <artifactId>jsr305</artifactId>
-      <version>3.0.1</version>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <groupId>se.itssimple.obsidianweave</groupId>
-      <artifactId>obsidianweave-common</artifactId>
-      <version>1.20.1-1.0.0</version>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <groupId>net.fabricmc</groupId>
-      <artifactId>fabric-loader</artifactId>
-      <version>0.16.10</version>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <groupId>net.fabricmc.fabric-api</groupId>
-      <artifactId>fabric-api</artifactId>
-      <version>0.92.5+1.20.1</version>
-      <scope>runtime</scope>
-    </dependency>
-  </dependencies>
 </project>
